@@ -8,4 +8,4 @@
     
     Open Retrieval Question Answering system (ORQA), Not using IR,Inverse Cloze Task (ICT), BERT
 
-**- 
+**- [] ** [[pdf]]() 

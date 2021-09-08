@@ -1,4 +1,5 @@
 ### openQA paper list
+
 **- [2017/ACL] Reading Wikipedia to Answer Open-Domain Questions ** [[pdf]](https://arxiv.org/pdf/1704.00051.pdf)
     
     Supervised, information retrieval (IR)

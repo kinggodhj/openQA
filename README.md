@@ -1,5 +1,7 @@
 ### openQA paper list
 
+
+
 **- [2017/ACL] Reading Wikipedia to Answer Open-Domain Questions** [[pdf]](https://arxiv.org/pdf/1704.00051.pdf)
     
     Supervised, information retrieval (IR)
@@ -8,7 +10,7 @@
     
     Open Retrieval Question Answering system (ORQA), Not using IR, Inverse Cloze Task (ICT), pre-trained BERT
     
-    <u>Two Phase</u>
+    **Two Phase**
     
             1) Retriever: question * data (wiki) using pre-trained BERT~Q, BERT~B (score)
     
@@ -18,12 +20,27 @@
     
     BERT, pre-training, fine-tuning, Inverse Cloze Task (ICT) 
     
-    <u>Two Phase</u>
+    **Two Phase**
             
             1) Retriever: Train masked language model on BERT structure (pre-training)
             
                 ++Embeddings are initilized using ICT
             
             2) Fine-tune the pretrained MLM model 
+       
+       
+**- [2020/EMNLP] How Much Knowledge Can You Pack Into the Parameters of a Language Model?** [[pdf]](https://arxiv.org/pdf/2002.08910.pdf) 
             
+    T5 modedl
+    
+    
+**- [2020/EMNLP] Dense Passage Retrieval for Open-Domain Question Answering** [[pdf]](https://arxiv.org/pdf/2004.04906.pdf) 
             
+    
+ 
+**- [2021/NAACL] Hurdles to Progress in Long-form Question Answering** [[pdf]](https://arxiv.org/pdf/2103.06332.pdf) 
+            
+    REALM + contrastive loss
+    
+    
+

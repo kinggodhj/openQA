@@ -8,7 +8,7 @@
     
     Open Retrieval Question Answering system (ORQA), Not using IR, Inverse Cloze Task (ICT), pre-trained BERT
     
-    <mark>Two Phase<\mark>
+    <mark>Two Phase</mark>
     
             1) Retriever: question * data (wiki) using pre-trained BERT~Q, BERT~B (score)
     
@@ -18,7 +18,7 @@
     
     BERT, pre-training, fine-tuning, Inverse Cloze Task (ICT) 
     
-    <mark>Two Phase<\mark>
+    <mark>Two Phase</mark>
             
             1) Retriever: Train masked language model on BERT structure (pre-training)
             

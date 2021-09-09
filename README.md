@@ -24,7 +24,7 @@
 
     **Two Phase**
             
-            1) Retriever: Train masked language model on BERT structure (pre-training)
+            1) Retriever: Transformer (Text-to-Text, pre-training)
             
             2) Fine-tune the pretrained MLM model 
             

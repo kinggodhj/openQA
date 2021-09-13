@@ -47,7 +47,9 @@
     
 **- [2020/EMNLP] Dense Passage Retrieval for Open-Domain Question Answering** [[pdf]](https://arxiv.org/pdf/2004.04906.pdf) 
             
-    DPR model
+    Dense Parse Retrieval (DPR) model, bi-encoder (independent) 
+    
+    
 
 **- [2020/NeurIPS] Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks** [[pdf]](https://arxiv.org/abs/2005.11401.pdf) 
             

@@ -47,7 +47,23 @@
     
 **- [2020/EMNLP] Dense Passage Retrieval for Open-Domain Question Answering** [[pdf]](https://arxiv.org/pdf/2004.04906.pdf) 
             
+    DPR model
+
+**- [2020/NeurIPS] Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks** [[pdf]](https://arxiv.org/abs/2005.11401.pdf) 
+            
+    BART-large (pre-trained), DPR model 
     
+    **Two Phase**
+            
+            1) Retriever: DPR (bi-encoder)
+            
+                ++pre-trained bi-encoder (BERT) from DPR
+            
+            2) Generator: Any encoder-decoder
+    
+                ++authors used pre-trained BART-large
+ 
+ 
  
 **- [2021/NAACL] Hurdles to Progress in Long-form Question Answering** [[pdf]](https://arxiv.org/pdf/2103.06332.pdf) 
             
